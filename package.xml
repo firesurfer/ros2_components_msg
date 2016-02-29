@@ -3,7 +3,7 @@
   <name>ros2_components_msg</name>
   <version>0.0.0</version>
   <description>Contains message and service definitions used by Kairo3.</description>
-  <maintainer email="lennart.nachtigall@student.kit.edu">Lennart Nachtigall</maintainer>
+  <maintainer email="none@example.de">Lennart Nachtigall</maintainer>
   <license>?</license>
 
   <buildtool_depend>ament_cmake</buildtool_depend>
