@@ -1,0 +1,2 @@
+int64 componentid
+string componenttype
