@@ -1,5 +1,7 @@
 int64 id
 
+string componentname
+
 string type
 
 int64 parent
@@ -14,4 +16,4 @@ int64[] childids
 
 string[] childtypes
 
-string name
+int64 machineip
