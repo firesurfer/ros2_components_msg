@@ -1,3 +1,5 @@
+string nodename
+
 int64 id
 
 string componentname
