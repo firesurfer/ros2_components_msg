@@ -1,6 +1,6 @@
 string nodename
 
-int64 id
+uint64 id
 
 string componentname
 
