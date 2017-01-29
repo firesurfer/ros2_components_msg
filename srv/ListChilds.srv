@@ -1,6 +1,0 @@
-int64 entityid
-
----
-int64 listsize
-int64[] childids
-string[] childtypes
