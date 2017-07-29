@@ -19,3 +19,5 @@ string[] childtypes
 int64 machineip
 
 bool subscriber
+
+bool deleted
