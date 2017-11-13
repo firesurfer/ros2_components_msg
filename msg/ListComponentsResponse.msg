@@ -16,7 +16,7 @@ int64[] childids
 
 string[] childtypes
 
-int64 machineip
+uint32 machineip
 
 bool subscriber
 
